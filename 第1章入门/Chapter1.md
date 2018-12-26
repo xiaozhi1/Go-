@@ -5,10 +5,10 @@
 
 > 缺点：没有隐式数值类型强制转换、没有构造或析构函数、没有运算符重载、没有形参默认值、没有继承、没有泛型、没有异常、没有宏、没有函数注解、没有线程局部存储。
 
-[本书代码](gopl.io) `gopl.io`
+[本书代码](https://www.gopl.io/) `gopl.io`
 
 [go官网](https://golang.org)  `https://golang.org`
 
-[线上运行](play.golang.org) `play.golang.org`
+[线上运行](https://play.golang.org/) `play.golang.org`
 
 ## 第一章 入门
